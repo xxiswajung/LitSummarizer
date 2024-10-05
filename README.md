@@ -9,8 +9,8 @@
 2. **OpenAI Integration:**
    - Utilizes OpenAI’s language model for generating comprehensive summaries and insights from research papers.
 
-3. **Planned Metadata Extraction:**
-   - A placeholder for future functionality to extract metadata from PDFs using `pdfminer`.
+3. **Save Results to Excel:**
+   - Automatically saves the responses from ChatGPT into an Excel file, categorized by the given research questions (parameters).
 
 ### How It Works:
 - You can specify your local folder which contains a number of papers, and the tool will process the files, clean the text, and leverage the OpenAI API to generate summaries of the papers' content.
