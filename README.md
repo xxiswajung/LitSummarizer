@@ -16,9 +16,9 @@
 - You can specify your local folder which contains a number of papers, and the tool will process the files, clean the text, and leverage the OpenAI API to generate summaries of the papers' content.
 
 
-#### LitSummarizer.py 
+#### litSummarizer.py 
 - Input the location of your folder and the prompts directly in the terminal.
 
-#### LitSummarizer_batchmode.py
-- Concerned about the cost of using OpenAI? This script offers the same quality at half the price!
+#### litSummarizer_batchmode.py
+- Concerned about the cost of using OpenAI? This file offers the same quality at half the price!
 - Update the folder location directly in the code to use this version.
